@@ -16,9 +16,13 @@ The Adventure Works project aimed to provide a comprehensive view of the company
 
 ## Data preparation and loading -
 
-Data Collection - Gathering relevant sales data from multiple sources while ensuring accuracy and completeness is a foundational step in any data-driven business intelligence or analysis project
-Data cleaning - Data cleaning and transformation are essential steps in the data preparation process, ensuring that the data used for analysis is accurate and free from inconsistencies. This involves addressing missing values through imputation or deletion, removing duplicate records, standardizing data formats for consistency, handling outliers appropriately, and converting data types as needed. 
-Data Modeling - A robust data model serves as the foundation for effective reporting and analysis by organizing data, ensuring data integrity, optimizing data retrieval, and providing a structured framework that supports the changing needs of the organization. It enhances data quality, consistency, and security while empowering users to derive meaningful insights and make informed decisions based on trustworthy data.
+1. Data Collection - Gathering relevant sales data from multiple sources while ensuring accuracy and completeness is a foundational step in any data-driven business intelligence or analysis project
+2. Data cleaning - Data cleaning and transformation are essential steps in the data preparation process, ensuring that the data used for analysis is accurate and free from inconsistencies. This involves 
+                   addressing missing values through imputation or deletion, removing duplicate records, standardizing data formats for consistency, handling outliers appropriately, and converting data types as 
+                   needed. 
+3. Data Modeling - A robust data model serves as the foundation for effective reporting and analysis by organizing data, ensuring data integrity, optimizing data retrieval, and providing a structured framework 
+                   that supports the changing needs of the organization. It enhances data quality, consistency, and security while empowering users to derive meaningful insights and make informed decisions based 
+                   on trustworthy data.
 
 
 
@@ -33,7 +37,9 @@ Data Modeling - A robust data model serves as the foundation for effective repor
 ## Insights and analysis - 
 
 
-![INSIGHTS](https://github.com/darshanns09/AdventureWorks-Sales-Report-Power-Bi/assets/145355404/7f1c11dd-34b1-46f6-82f2-a4f2d5134f00)
+![INSIGHTS](https://github.com/darshanns09/AdventureWorks-Sales-Report-Power-Bi/assets/145355404/7a6fd298-a621-4e9c-85d5-2a72366f7284)
+
+
 
 "Developed a dynamic sales analysis dashboard in Power BI, enabling real-time monitoring of revenue trends and outlier detection. Identified revenue spikes, such as the $1,635,309 total on 12/1/2021, which exceeded the expected range, and pinpointed influential factors like high revenue in the United States within the Mountain Bikes subcategory."
 
