@@ -1,8 +1,17 @@
 # AdventureWorks-Sales-Report-Power-Bi
 POWER BI PROJECT
 
+
 ## Overview of Adventure Works sales data - 
-the Adventure Works project aimed to provide a comprehensive view of the company's performance over the years, including revenue growth, outlier detection, and insights into factors affecting sales. This data-driven approach supports informed decision-making and enhances business performance by leveraging the power of business intelligence tools like Power BI.
+
+In AdventureWorks project, I have done work through the entire business intelligence workflow: connecting and shaping the data, building a relational model, adding calculated fields, and designing an interactive report.
+
+The AdventureWorks project is a comprehensive business intelligence (BI) initiative that involves various stages and tasks aimed at leveraging data to gain valuable insights into a fictional company's operations.
+
+The primary objective of this project is to extract meaningful insights from the company's data to support informed decision-making and enhance business performance.
+
+The Adventure Works project aimed to provide a comprehensive view of the company's performance over the years, including revenue growth, outlier detection, and insights into factors affecting sales. This data-driven approach supports informed decision-making and enhances business performance by leveraging the power of business intelligence tools like Power BI.
+
 
 
 ## Data preparation and loading -
@@ -12,14 +21,22 @@ Data cleaning - Data cleaning and transformation are essential steps in the data
 Data Modeling - A robust data model serves as the foundation for effective reporting and analysis by organizing data, ensuring data integrity, optimizing data retrieval, and providing a structured framework that supports the changing needs of the organization. It enhances data quality, consistency, and security while empowering users to derive meaningful insights and make informed decisions based on trustworthy data.
 
 
+
 ## Creating visualizations and reports - 
+
 
 ![Power bi 1](https://github.com/darshanns09/AdventureWorks-Sales-Report-Power-Bi/assets/145355404/42f9cc28-6799-4e11-8580-053b18dcffa4)
 
 
+
+
 ## Insights and analysis - 
 
+
 ![INSIGHTS](https://github.com/darshanns09/AdventureWorks-Sales-Report-Power-Bi/assets/145355404/7f1c11dd-34b1-46f6-82f2-a4f2d5134f00)
+
+"Developed a dynamic sales analysis dashboard in Power BI, enabling real-time monitoring of revenue trends and outlier detection. Identified revenue spikes, such as the $1,635,309 total on 12/1/2021, which exceeded the expected range, and pinpointed influential factors like high revenue in the United States within the Mountain Bikes subcategory."
+
 
 
 ## Conclusion and next steps - 
@@ -36,6 +53,5 @@ Advanced visualizations such as tree-maps reveal hierarchical data structures, w
 
 
 
+
 *****************************************************************************************************************************************************************************************************************
-,
-,
