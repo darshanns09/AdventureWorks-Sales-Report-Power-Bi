@@ -29,7 +29,8 @@ The Adventure Works project aimed to provide a comprehensive view of the company
 ## Creating visualizations and reports - 
 
 
-![Power bi 1](https://github.com/darshanns09/AdventureWorks-Sales-Report-Power-Bi/assets/145355404/42f9cc28-6799-4e11-8580-053b18dcffa4)
+![Power bi 1](https://github.com/darshanns09/AdventureWorks-Sales-Report-Power-Bi/assets/145355404/42f9cc28-6799-4e11-8580-053b18dcffa4)   ![power bi 3](https://github.com/darshanns09/AdventureWorks-Sales-Report-Power-Bi/assets/145355404/1e9afda8-9bd7-4d67-b537-88a674f2552c)
+
 
 
 
