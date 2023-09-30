@@ -1,4 +1,4 @@
-![image](https://github.com/darshanns09/AdventureWorks-Sales-Report-Power-Bi/assets/145355404/0a72f426-6970-420e-89cf-3c74746d4c39)![image](https://github.com/darshanns09/AdventureWorks-Sales-Report-Power-Bi/assets/145355404/14b1c882-ea3c-48d2-825a-3ddaa7457748)# AdventureWorks-Sales-Report-Power-Bi
+# AdventureWorks-Sales-Report-Power-Bi
 Power Bi Project
 
 ## Overview of Adventure Works sales data - 
@@ -21,7 +21,7 @@ Creating visualizations and reports
 ,,
 ,
 Insights and analysis
-![image](https://github.com/darshanns09/AdventureWorks-Sales-Report-Power-Bi/assets/145355404/895e2198-49d9-4f5a-bc42-1d1c6b3d5003)
+![image](https://github.com/darshanns09/AdventureWorks-Sales-Report-Power-Bi/assets/145355404/f9624f97-d2d1-4429-abf9-cc13ddca2519)
 
 ,
 ,
